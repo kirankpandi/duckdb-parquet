@@ -1,0 +1,85 @@
+[{
+  "name": "uid",
+  "type": "VARCHAR(10)",
+  "index": 1
+},
+{
+  "name": "location_type",
+  "type": "VARCHAR(25)",
+  "index": 2
+},
+{
+  "name": "fips_code",
+  "type": "INTEGER",
+  "index": 3
+},
+{
+  "name": "location_name",
+  "type": "VARCHAR(25)",
+  "index": 4
+},
+{
+  "name": "state",
+  "type": "VARCHAR(25)",
+  "index": 5
+},
+{
+  "name": "date",
+  "type": "DATE",
+  "index": 6
+},
+{
+  "name": "total_population",
+  "type": "INTEGER",
+  "index": 7
+},
+{
+  "name": "cumulative_cases",
+  "type": "INTEGER",
+  "index": 8
+},
+{
+  "name": "cumulative_cases_per_100_000",
+  "type": "REAL",
+  "index": 9
+},
+{
+  "name": "cumulative_deaths",
+  "type": "INTEGER",
+  "index": 10
+},
+{
+  "name": "cumulative_deaths_per_100_000",
+  "type": "REAL",
+  "index": 11
+},
+{
+  "name": "new_cases",
+  "type": "INTEGER",
+  "index": 12
+},
+{
+  "name": "new_deaths",
+  "type": "INTEGER",
+  "index": 13
+},
+{
+  "name": "new_cases_per_100_000",
+  "type": "REAL",
+  "index": 14
+},
+{
+  "name": "new_deaths_per_100_000",
+  "type": "REAL",
+  "index": 15
+},
+{
+  "name": "new_cases_7_day_rolling_avg",
+  "type": "REAL",
+  "index": 16
+},
+{
+  "name": "new_deaths_7_day_rolling_avg",
+  "type": "REAL",
+  "index": 17
+}]
